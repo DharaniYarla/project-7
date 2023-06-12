@@ -1,0 +1,25 @@
+body {
+  text-align: center;
+  font-family: Arial, sans-serif;
+  background-color: rgb(47, 53, 52);
+}
+
+#emojiContainer {
+  margin-top: 50px;
+}
+
+#emoji {
+  font-size: 80px;
+}
+
+button {
+  padding: 10px 20px;
+  margin-right: 2%;
+  background: linear-gradient(85deg, #f7e894, #ff69b4, #bbdde9);
+  color: rgb(5, 6, 17);
+  font-size: 14px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  margin-top: 20px;
+}
